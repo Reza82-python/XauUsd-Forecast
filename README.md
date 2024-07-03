@@ -7,7 +7,7 @@ After entering the link and correcting the date, click on the text Download data
 Deep learning project
 (RNN models)
  
-   فهرست مطالب:
+ 
 
 1.	مقدمه
 2.	دیتاست xau
